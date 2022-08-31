@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Loading from '../pages/Loading';
+// import Loading from '../pages/Loading';
 
 class Header extends React.Component {
   // state = {
