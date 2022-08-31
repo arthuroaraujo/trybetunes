@@ -1,5 +1,4 @@
 import React from 'react';
-// import { Redirect } from 'react-router-dom';
 import Proptypes from 'prop-types';
 import Loading from './Loading';
 import { createUser } from '../services/userAPI';
