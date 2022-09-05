@@ -20,6 +20,7 @@ class Album extends React.Component {
 
   render() {
     const { resultsGetMusics } = this.state;
+
     return (
       <div data-testid="page-album">
         <Header />
@@ -41,6 +42,8 @@ class Album extends React.Component {
           resultsGetMusics.map((element, index) => (
             index > 0 && (
               <MusicCard
+                song={ element }
+                trackId={ element.trackId }
                 trackName={ element.trackName }
                 previewUrl={ element.previewUrl }
               />

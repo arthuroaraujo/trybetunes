@@ -42,7 +42,6 @@ class Search extends React.Component {
 
   render() {
     const { inputSearch, isDisabled, loading, searchResults, inputArtist } = this.state;
-    console.log(inputSearch);
     return (
       <div data-testid="page-search">
         <Header />
