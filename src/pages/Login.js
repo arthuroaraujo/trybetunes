@@ -1,5 +1,5 @@
 import React from 'react';
-import Proptypes from 'prop-types';
+import PropTypes from 'prop-types';
 import Loading from './Loading';
 import { createUser } from '../services/userAPI';
 
@@ -66,8 +66,8 @@ class Login extends React.Component {
   }
 }
 Login.propTypes = {
-  history: Proptypes.shape({
-    push: Proptypes.func,
+  history: PropTypes.shape({
+    push: PropTypes.func,
   }).isRequired,
 };
 
