@@ -71,10 +71,6 @@ Para executar o TrybeTunes localmente, siga as etapas abaixo:
 
 Aqui estão alguns próximos passos que podem ser realizados para melhorar o projeto:
 
-1. **Criação do mecanismo para remover músicas na lista de músicas favoritas**: Implementar a funcionalidade de remover músicas da lista de favoritos, permitindo que os usuários gerenciem suas músicas favoritas de forma mais completa.
-
-2. **Criação da lista de músicas favoritas**: Adicionar a funcionalidade de criar uma lista de músicas favoritas, onde os usuários podem adicionar suas músicas preferidas para acesso rápido e fácil.
-
-3. **Estilização do projeto**: Realizar uma estilização mais aprimorada do projeto, tornando-o mais atraente visualmente e melhorando a experiência do usuário. Isso pode incluir o uso de estilos personalizados, melhorias no layout e na organização dos componentes, além de uma paleta de cores mais harmoniosa.
+1. **Estilização do projeto**: Realizar uma estilização mais aprimorada do projeto, tornando-o mais atraente visualmente e melhorando a experiência do usuário. Isso pode incluir o uso de estilos personalizados, melhorias no layout e na organização dos componentes, além de uma paleta de cores mais harmoniosa.
 
 Sinta-se à vontade para explorar essas sugestões e adicionar novos recursos e melhorias ao TrybeTunes!
