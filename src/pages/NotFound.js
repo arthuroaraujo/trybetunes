@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/notFound.css';
 
 class ProfileEdit extends React.Component {
   render() {

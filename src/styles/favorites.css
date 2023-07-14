@@ -1,0 +1,18 @@
+/* favorites.css */
+.favorites-container {
+    background-color: #8B0000;
+    padding: 10px;
+  }
+  
+  .favorites-container h3 {
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .favorites-container .music-card {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  

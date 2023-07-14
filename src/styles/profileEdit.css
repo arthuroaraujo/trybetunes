@@ -1,0 +1,45 @@
+/* profileEdit.css */
+.profile-edit-container {
+    background-color: #8B0000;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .profile-edit-heading {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: white;
+  }
+  
+  .profile-edit-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile-edit-label {
+    margin-bottom: 10px;
+  }
+  
+  .profile-edit-input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .profile-edit-button-save {
+    width: 100%;
+    padding: 10px;
+    background-color: #301010;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .profile-edit-button-save:disabled {
+    background-color: gray;
+    cursor: not-allowed;
+  }
+  

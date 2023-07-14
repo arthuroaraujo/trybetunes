@@ -1,0 +1,45 @@
+/* album.css */
+.album-container {
+    background-color: #8B0000;
+    padding: 10px;
+  }
+  
+  .album-container h3 {
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .album-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .album-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .album-container li {
+    margin-bottom: 10px;
+  }
+  
+  .album-container li a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .album-container li a:hover {
+    text-decoration: underline;
+  }
+  
+  .album-container li img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  

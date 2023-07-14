@@ -1,0 +1,11 @@
+/* notFound.css */
+.not-found-container {
+    background-color: #8B0000;
+    padding: 10px;
+  }
+  
+  .not-found-container h1 {
+    color: white;
+    margin-bottom: 10px;
+  }
+  
